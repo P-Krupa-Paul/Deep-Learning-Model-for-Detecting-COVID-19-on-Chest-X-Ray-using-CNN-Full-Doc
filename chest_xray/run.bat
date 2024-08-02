@@ -1,0 +1,2 @@
+python CovidDetectionXray.py
+pause
